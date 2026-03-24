@@ -1,4 +1,4 @@
-package com.payal.twoPointer;
+package com.payal.twopointer;
 
 public class PalindromeString {
 
